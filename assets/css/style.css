@@ -1,0 +1,36 @@
+.jumbotron{
+    background-color: rgb(136, 172, 172);
+    margin: 0% 11% 1% 11%;
+}
+
+.row{
+    margin: 0% 10% 0% 10%;
+
+}
+
+#add-train,
+.card-header{
+    background-color: rgb(136, 172, 172);
+}
+
+.display-4{
+    font-size: 100px;
+}
+
+.lead{
+    font-size: 30px;
+}
+
+body{
+    background: url("../images/train.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
+
+}
+
+.jumbotron,
+.row{
+    opacity: .8;
+    filter: alpha(opacity=50);
+}
